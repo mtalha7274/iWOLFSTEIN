@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WOLFSTEIN
-- 👀 I’m interested in app development, game development and AI
-- 🌱 I’m currently learning game development
+- 👀 I’m interested in app development, backend development and AI
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on an app idea 
 - 📫 Email me ikenprime@gmail.com
 
