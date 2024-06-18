@@ -1,7 +1,7 @@
-- 👋 Hi, I’m WOLFSTEIN
+- 👋 Hi, My name is Talha
 - 👀 I’m interested in app development, backend development.
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on an app idea 
+- 🌱 I’m currently web development
+- 💞️ I’m looking to contribute to open source
 - 📫 Email me mtalha7274@gmail.com
 
 <!---
