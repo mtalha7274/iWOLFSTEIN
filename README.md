@@ -13,7 +13,7 @@ Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutte
   - Swift
 
 - **Frameworks and Tools:**
-  - ![Flutter](https://flutter.dev/)
+  - ![Flutter](https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png)
   - ![Django](https://www.djangoproject.com/)
   - ![FastAPI](https://fastapi.tiangolo.com/)
   - ![React](https://react.dev/)
@@ -42,7 +42,7 @@ Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutte
 
 - **LinkedIn:** [linkedin.com/in/talha-ashraf-38702a213](https://www.linkedin.com/in/talha-ashraf-38702a213/)
 - **Twitter:** [@italhax](https://x.com/italhax)
-- **Medium:** [@mtalha7274]([https://x.com/italhax](https://medium.com/@mtalha7274))
+- **Medium:** [@mtalha7274](https://medium.com/@mtalha7274)
 - **Email:** mtalha7274@example.com
 
 ## 🌐 Let's Connect!
