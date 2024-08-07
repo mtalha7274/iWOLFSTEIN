@@ -16,8 +16,9 @@ Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutte
   - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![Swift UIKit](https://img.shields.io/badge/Swift%20UIKit-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  - ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ## 📂 Repositories
 
