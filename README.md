@@ -1,4 +1,4 @@
-# Talha Ashraf's GitHub Profile
+# Talha Ashraf
 
 ## 🌟 About Me
 
