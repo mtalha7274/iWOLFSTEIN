@@ -7,10 +7,10 @@ Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutte
 ## 🚀 Skills and Technologies
 
 - **Languages:**
-  - Dart
-  - Python
-  - Javascript
-  - Swift
+  - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 - **Frameworks and Tools:**
   - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
