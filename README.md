@@ -41,8 +41,8 @@ Hi! I'm **Talha Ashraf**, a talented software developer specializing in **Flutte
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/talha-ashraf-38702a213](https://www.linkedin.com/in/talha-ashraf-38702a213/)
-- **Twitter:** [@italhax](https://x.com/mtalha7274)
+- **LinkedIn:** [talha-ashraf-38702a213](https://www.linkedin.com/in/talha-ashraf-38702a213/)
+- **Twitter:** [@mtalha7274](https://x.com/mtalha7274)
 - **Medium:** [@mtalha7274](https://medium.com/@mtalha7274)
 - **Email:** mtalha7274@gmail.com
 
